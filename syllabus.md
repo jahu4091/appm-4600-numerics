@@ -2,6 +2,7 @@
 
 Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
 
+
 See also [policies](policies.md), the [high-level
 schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the [day-by-day schedule](schedule.md)
 
@@ -86,9 +87,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 - Understand how polynomials are used for quadrature rules, and the ideas of composite rules and non-equispaced nodes.
 
 ### Exams
-Both midterms are Wednesday evening exams that will take place on
-2/25/26 and 4/1/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas.
-
+No Exams
 
 # High-level list of topics
 Roughly, chapters 1-6 (skipping ch 5) with bits of ch 8, 9, and 10 of
